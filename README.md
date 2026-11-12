@@ -1,6 +1,5 @@
 # 🚀 MOHIT | Developer in Progress
 
-```markdown
 <!-- ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0D9488&height=200&section=header&text=MOHIT&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20REALITY&descAlignY=60&animation=fadeIn" width="100%" />
@@ -91,4 +90,3 @@ and documenting the journey along the way.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0D9488&height=110&section=footer" width="100%" />
 </p>
-```
